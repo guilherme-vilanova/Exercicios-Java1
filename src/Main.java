@@ -37,7 +37,6 @@ public class Main {
 		
 		
 		
-		leitura.close();
 		
 		
 	}
